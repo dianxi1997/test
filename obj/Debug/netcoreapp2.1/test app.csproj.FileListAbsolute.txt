@@ -9,3 +9,14 @@ c:\Users\anna\Desktop\test app\obj\Debug\netcoreapp2.1\test app.AssemblyInfoInpu
 c:\Users\anna\Desktop\test app\obj\Debug\netcoreapp2.1\test app.AssemblyInfo.cs
 c:\Users\anna\Desktop\test app\obj\Debug\netcoreapp2.1\test app.dll
 c:\Users\anna\Desktop\test app\obj\Debug\netcoreapp2.1\test app.pdb
+c:\Users\anna\Desktop\test\bin\Debug\netcoreapp2.1\test app.deps.json
+c:\Users\anna\Desktop\test\bin\Debug\netcoreapp2.1\test app.runtimeconfig.json
+c:\Users\anna\Desktop\test\bin\Debug\netcoreapp2.1\test app.runtimeconfig.dev.json
+c:\Users\anna\Desktop\test\bin\Debug\netcoreapp2.1\test app.dll
+c:\Users\anna\Desktop\test\bin\Debug\netcoreapp2.1\test app.pdb
+c:\Users\anna\Desktop\test\obj\Debug\netcoreapp2.1\test app.csprojAssemblyReference.cache
+c:\Users\anna\Desktop\test\obj\Debug\netcoreapp2.1\test app.csproj.CoreCompileInputs.cache
+c:\Users\anna\Desktop\test\obj\Debug\netcoreapp2.1\test app.AssemblyInfoInputs.cache
+c:\Users\anna\Desktop\test\obj\Debug\netcoreapp2.1\test app.AssemblyInfo.cs
+c:\Users\anna\Desktop\test\obj\Debug\netcoreapp2.1\test app.dll
+c:\Users\anna\Desktop\test\obj\Debug\netcoreapp2.1\test app.pdb
